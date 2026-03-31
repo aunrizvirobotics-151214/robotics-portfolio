@@ -1,6 +1,6 @@
 # Robotics Portfolio – Syed Muhammad Aun Rizvi
 
-MSc student in Mobile Robotics at the University of Bonn with a focus on probabilistic robotics, state estimation, and autonomous navigation.
+MSc student in Mobile Robotics at the University of Bonn with a focus on probabilistic robotics, state estimation, autonomous navigation, and controls of Humanoids.
 
 ---
 
@@ -8,10 +8,9 @@ MSc student in Mobile Robotics at the University of Bonn with a focus on probabi
 This repository serves as a central portfolio linking my implementations of core robotics algorithms developed during my studies.
 
 Focus areas:
-- Probabilistic Robotics
-- State Estimation (EKF, Particle Filters)
-- Mapping (Occupancy Grid)
-- Planning (A*, MDPs)
+- SLAM
+- Planning
+- Controls
 - ROS2-based system implementation
 
 ---
@@ -20,13 +19,6 @@ Focus areas:
 
 ### 🧭 Grid Mapping (Occupancy Grid)
 Implementation of probabilistic grid mapping using sensor data.
-
-👉 [Repository Link]
-
----
-
-### 📍 EKF Localization
-Extended Kalman Filter for robot localization with noisy motion and observation models.
 
 👉 [Repository Link]
 
@@ -42,24 +34,14 @@ Particle filter-based localization with resampling strategies.
 ### 🗺️ FastSLAM (Planned)
 SLAM using particle filters with landmark-based mapping.
 
-🚧 Work in progress
+👉 [Repository Link]
 
 ---
 
 ### 🤖 Control & Planning (Planned)
-- PID Control
 - A* Path Planning
-- MDP-based Planning under Uncertainty
 
-🚧 Work in progress
-
----
-
-## 🔹 Tech Stack
-- Python
-- ROS2 (Humble)
-- NumPy
-- Gazebo (planned)
+👉 [Repository Link]
 
 ---
 
@@ -73,9 +55,4 @@ SLAM using particle filters with landmark-based mapping.
 ## 🔹 Background
 - BSc Mechanical Engineering – NUST Pakistan  
 - Internship: Legged Robot @ National Center of Robotics and Automation  
-- Experience with SLAM, navigation, and perception systems
-
----
-
-## 🔹 Note
-Most projects are actively under development as part of my MSc coursework and self-driven implementation roadmap.
+- Experience: SLAM, navigation, perception, and control systems
