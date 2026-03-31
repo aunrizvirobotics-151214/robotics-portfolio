@@ -50,17 +50,3 @@ SLAM using particle filters with landmark-based mapping.
 A* path planning for mobile robot navigation.
 
 👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/astar_planner.git)
-
----
-
-## 🔹 Current Focus
-- Implementing core robotics algorithms from scratch
-- Bridging theory (coursework) with ROS2-based systems
-- Building a modular robotics software stack
-
----
-
-## 🔹 Background
-- BSc Mechanical Engineering – NUST Pakistan  
-- Internship: Legged Robot @ National Center of Robotics and Automation  
-- Experience: SLAM, navigation, perception, and control systems
