@@ -20,7 +20,7 @@ Focus areas:
 
 ### Odommetry Motion Model
 Probabilistic odometry motion model for mobile robots using ROS2 and Gazebo.
-👉 [[Repository Link]]https://github.com/aunrizvirobotics-151214/odom_motion_model.git
+👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/odom_motion_model.git)
 
 ---
 
