@@ -6,7 +6,6 @@ Focus: Probabilistic Robotics, State Estimation, Navigation, and Control
 ---
 
 ## 🔹 Overview
-This repository serves as a central portfolio linking my implementations of core robotics algorithms developed during my studies.
 
 Focus areas:
 - SLAM
