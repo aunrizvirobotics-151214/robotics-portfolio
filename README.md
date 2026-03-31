@@ -1,6 +1,7 @@
 # Robotics Portfolio – Syed Muhammad Aun Rizvi
 
-MSc student in Mobile Robotics at the University of Bonn with a focus on probabilistic robotics, state estimation, autonomous navigation, and controls of Humanoids.
+MSc Mobile Robotics @ University of Bonn  
+Focus: Probabilistic Robotics, State Estimation, Navigation, and Control
 
 ---
 
