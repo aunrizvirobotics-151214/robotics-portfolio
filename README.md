@@ -17,31 +17,37 @@ Focus areas:
 
 ## 🔹 Projects
 
-### 🧭 Grid Mapping (Occupancy Grid)
-Implementation of probabilistic grid mapping using sensor data.
-
-👉 [Repository Link]
-
----
-
-### 🎯 Monte Carlo Localization (MCL)
-Particle filter-based localization with resampling strategies.
-
-👉 [Repository Link]
+### Odommetry Motion Model
+Probabilistic odometry motion model for mobile robots using ROS2 and Gazebo.
+👉 [[Repository Link]]https://github.com/aunrizvirobotics-151214/odom_motion_model.git
 
 ---
 
-### 🗺️ FastSLAM (Planned)
+### Grid Mapping (Occupancy Grid)
+Occupancy grid mapping using probabilistic sensor updates.
+
+👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/probabilistic_grid_map.git)
+
+---
+
+### Monte Carlo Localization (MCL)
+Particle filter-based localization with motion, observation, and resampling steps.
+
+👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/mcl_2d.git)
+
+---
+
+### FastSLAM
 SLAM using particle filters with landmark-based mapping.
 
-👉 [Repository Link]
+👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/fastslam_ros.git)
 
 ---
 
-### 🤖 Control & Planning (Planned)
-- A* Path Planning
+### Control & Planning 
+A* path planning for mobile robot navigation.
 
-👉 [Repository Link]
+👉 [[Repository Link]](https://github.com/aunrizvirobotics-151214/astar_planner.git)
 
 ---
 
